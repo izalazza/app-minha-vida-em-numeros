@@ -39,7 +39,3 @@ Para executá-lo:
 1. Acesse o link do projeto no **[expo.dev/snack](https://snack.expo.dev/)**.
 2. Clique em **“Run”** ou leia o QR Code com o aplicativo **Expo Go** no seu celular.
 3. Também é possível gerar um arquivo `.apk` e instalar o app diretamente em dispositivos Android, disponível na seção **Releases** deste repositório.
-
-
-
-Quer que eu monte a versão **formatada em Markdown pronta para colar no README.md** do seu projeto (com emojis e espaçamento bonitinho)?
